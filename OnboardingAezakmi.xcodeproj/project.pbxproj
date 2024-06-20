@@ -8,17 +8,40 @@
 
 /* Begin PBXBuildFile section */
 		566A1C302C2457B0003ED11B /* OnboardingAezakmiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C2F2C2457B0003ED11B /* OnboardingAezakmiApp.swift */; };
-		566A1C322C2457B0003ED11B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C312C2457B0003ED11B /* ContentView.swift */; };
+		566A1C322C2457B0003ED11B /* OnboardingView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C312C2457B0003ED11B /* OnboardingView1.swift */; };
 		566A1C342C2457B1003ED11B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 566A1C332C2457B1003ED11B /* Assets.xcassets */; };
 		566A1C372C2457B1003ED11B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 566A1C362C2457B1003ED11B /* Preview Assets.xcassets */; };
+		566A1C442C245876003ED11B /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C432C245876003ED11B /* OnboardingViewModel.swift */; };
+		566A1C482C2458B1003ED11B /* CustomNavigationButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C472C2458B1003ED11B /* CustomNavigationButton.swift */; };
+		566A1C4D2C245B1B003ED11B /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 566A1C4C2C245B1B003ED11B /* Localizable.xcstrings */; };
+		566A1C4F2C2472EC003ED11B /* DotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C4E2C2472EC003ED11B /* DotView.swift */; };
+		566A1C5A2C247F58003ED11B /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C592C247F58003ED11B /* WebView.swift */; };
+		566A1C5D2C2480E2003ED11B /* ApphudSDK in Frameworks */ = {isa = PBXBuildFile; productRef = 566A1C5C2C2480E2003ED11B /* ApphudSDK */; };
+		566A1C5F2C2488C1003ED11B /* TempContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C5E2C2488C1003ED11B /* TempContentView.swift */; };
+		566A1C612C249B44003ED11B /* OnboardingView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C602C249B44003ED11B /* OnboardingView2.swift */; };
+		566A1C632C24ACE0003ED11B /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C622C24ACE0003ED11B /* MainView.swift */; };
+		566A1C652C24B0CE003ED11B /* OnboardingState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566A1C642C24B0CE003ED11B /* OnboardingState.swift */; };
+		93A88A87519D8EC00A68B205 /* Pods_OnboardingAezakmi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 219BE25467EB6A00F5335D5A /* Pods_OnboardingAezakmi.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		219BE25467EB6A00F5335D5A /* Pods_OnboardingAezakmi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OnboardingAezakmi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		566A1C2C2C2457B0003ED11B /* OnboardingAezakmi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnboardingAezakmi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		566A1C2F2C2457B0003ED11B /* OnboardingAezakmiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingAezakmiApp.swift; sourceTree = "<group>"; };
-		566A1C312C2457B0003ED11B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		566A1C312C2457B0003ED11B /* OnboardingView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView1.swift; sourceTree = "<group>"; };
 		566A1C332C2457B1003ED11B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		566A1C362C2457B1003ED11B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		566A1C432C245876003ED11B /* OnboardingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
+		566A1C472C2458B1003ED11B /* CustomNavigationButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavigationButton.swift; sourceTree = "<group>"; };
+		566A1C4C2C245B1B003ED11B /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		566A1C4E2C2472EC003ED11B /* DotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotView.swift; sourceTree = "<group>"; };
+		566A1C592C247F58003ED11B /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		566A1C5E2C2488C1003ED11B /* TempContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempContentView.swift; sourceTree = "<group>"; };
+		566A1C602C249B44003ED11B /* OnboardingView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView2.swift; sourceTree = "<group>"; };
+		566A1C622C24ACE0003ED11B /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		566A1C642C24B0CE003ED11B /* OnboardingState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingState.swift; sourceTree = "<group>"; };
+		86A268C0E4FA8161933510B5 /* Pods-OnboardingAezakmi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OnboardingAezakmi.debug.xcconfig"; path = "Target Support Files/Pods-OnboardingAezakmi/Pods-OnboardingAezakmi.debug.xcconfig"; sourceTree = "<group>"; };
+		D51AECB80E780E13010F1FFF /* Pods-OnboardingAezakmi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OnboardingAezakmi.release.xcconfig"; path = "Target Support Files/Pods-OnboardingAezakmi/Pods-OnboardingAezakmi.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +49,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93A88A87519D8EC00A68B205 /* Pods_OnboardingAezakmi.framework in Frameworks */,
+				566A1C5D2C2480E2003ED11B /* ApphudSDK in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -37,6 +62,8 @@
 			children = (
 				566A1C2E2C2457B0003ED11B /* OnboardingAezakmi */,
 				566A1C2D2C2457B0003ED11B /* Products */,
+				F852F0AF5473C4F4C98E5FB0 /* Pods */,
+				6ACD25B651B670B19EB2BD35 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,10 +78,13 @@
 		566A1C2E2C2457B0003ED11B /* OnboardingAezakmi */ = {
 			isa = PBXGroup;
 			children = (
-				566A1C2F2C2457B0003ED11B /* OnboardingAezakmiApp.swift */,
-				566A1C312C2457B0003ED11B /* ContentView.swift */,
+				566A1C402C245802003ED11B /* App */,
+				566A1C3E2C2457C6003ED11B /* Utilities */,
+				566A1C3D2C2457B6003ED11B /* Views */,
+				566A1C422C245847003ED11B /* ViewModels */,
 				566A1C332C2457B1003ED11B /* Assets.xcassets */,
 				566A1C352C2457B1003ED11B /* Preview Content */,
+				566A1C4C2C245B1B003ED11B /* Localizable.xcstrings */,
 			);
 			path = OnboardingAezakmi;
 			sourceTree = "<group>";
@@ -67,6 +97,69 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		566A1C3D2C2457B6003ED11B /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				566A1C412C245812003ED11B /* Supporting Views */,
+				566A1C312C2457B0003ED11B /* OnboardingView1.swift */,
+				566A1C5E2C2488C1003ED11B /* TempContentView.swift */,
+				566A1C602C249B44003ED11B /* OnboardingView2.swift */,
+				566A1C622C24ACE0003ED11B /* MainView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		566A1C3E2C2457C6003ED11B /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		566A1C402C245802003ED11B /* App */ = {
+			isa = PBXGroup;
+			children = (
+				566A1C2F2C2457B0003ED11B /* OnboardingAezakmiApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		566A1C412C245812003ED11B /* Supporting Views */ = {
+			isa = PBXGroup;
+			children = (
+				566A1C472C2458B1003ED11B /* CustomNavigationButton.swift */,
+				566A1C4E2C2472EC003ED11B /* DotView.swift */,
+				566A1C592C247F58003ED11B /* WebView.swift */,
+				566A1C642C24B0CE003ED11B /* OnboardingState.swift */,
+			);
+			path = "Supporting Views";
+			sourceTree = "<group>";
+		};
+		566A1C422C245847003ED11B /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				566A1C432C245876003ED11B /* OnboardingViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		6ACD25B651B670B19EB2BD35 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				219BE25467EB6A00F5335D5A /* Pods_OnboardingAezakmi.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F852F0AF5473C4F4C98E5FB0 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				86A268C0E4FA8161933510B5 /* Pods-OnboardingAezakmi.debug.xcconfig */,
+				D51AECB80E780E13010F1FFF /* Pods-OnboardingAezakmi.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -74,6 +167,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 566A1C3A2C2457B1003ED11B /* Build configuration list for PBXNativeTarget "OnboardingAezakmi" */;
 			buildPhases = (
+				0084C6F450CE3736EE791A60 /* [CP] Check Pods Manifest.lock */,
 				566A1C282C2457B0003ED11B /* Sources */,
 				566A1C292C2457B0003ED11B /* Frameworks */,
 				566A1C2A2C2457B0003ED11B /* Resources */,
@@ -83,6 +177,9 @@
 			dependencies = (
 			);
 			name = OnboardingAezakmi;
+			packageProductDependencies = (
+				566A1C5C2C2480E2003ED11B /* ApphudSDK */,
+			);
 			productName = OnboardingAezakmi;
 			productReference = 566A1C2C2C2457B0003ED11B /* OnboardingAezakmi.app */;
 			productType = "com.apple.product-type.application";
@@ -109,8 +206,12 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = 566A1C232C2457AF003ED11B;
+			packageReferences = (
+				566A1C5B2C2480E2003ED11B /* XCRemoteSwiftPackageReference "ApphudSDK" */,
+			);
 			productRefGroup = 566A1C2D2C2457B0003ED11B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,18 +228,52 @@
 			files = (
 				566A1C372C2457B1003ED11B /* Preview Assets.xcassets in Resources */,
 				566A1C342C2457B1003ED11B /* Assets.xcassets in Resources */,
+				566A1C4D2C245B1B003ED11B /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0084C6F450CE3736EE791A60 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-OnboardingAezakmi-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		566A1C282C2457B0003ED11B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				566A1C322C2457B0003ED11B /* ContentView.swift in Sources */,
+				566A1C612C249B44003ED11B /* OnboardingView2.swift in Sources */,
+				566A1C632C24ACE0003ED11B /* MainView.swift in Sources */,
+				566A1C652C24B0CE003ED11B /* OnboardingState.swift in Sources */,
+				566A1C5A2C247F58003ED11B /* WebView.swift in Sources */,
+				566A1C5F2C2488C1003ED11B /* TempContentView.swift in Sources */,
+				566A1C322C2457B0003ED11B /* OnboardingView1.swift in Sources */,
+				566A1C442C245876003ED11B /* OnboardingViewModel.swift in Sources */,
+				566A1C482C2458B1003ED11B /* CustomNavigationButton.swift in Sources */,
 				566A1C302C2457B0003ED11B /* OnboardingAezakmiApp.swift in Sources */,
+				566A1C4F2C2472EC003ED11B /* DotView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +401,7 @@
 		};
 		566A1C3B2C2457B1003ED11B /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 86A268C0E4FA8161933510B5 /* Pods-OnboardingAezakmi.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -295,6 +431,7 @@
 		};
 		566A1C3C2C2457B1003ED11B /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D51AECB80E780E13010F1FFF /* Pods-OnboardingAezakmi.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -344,6 +481,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		566A1C5B2C2480E2003ED11B /* XCRemoteSwiftPackageReference "ApphudSDK" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apphud/ApphudSDK";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.3.8;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		566A1C5C2C2480E2003ED11B /* ApphudSDK */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 566A1C5B2C2480E2003ED11B /* XCRemoteSwiftPackageReference "ApphudSDK" */;
+			productName = ApphudSDK;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 566A1C242C2457AF003ED11B /* Project object */;
 }

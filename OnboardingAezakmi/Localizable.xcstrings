@@ -1,0 +1,157 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "buy subscription" : {
+
+    },
+    "continue" : {
+
+    },
+    "Continue" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "Explanation View" : {
+
+    },
+    "Feedback View" : {
+
+    },
+    "Hello, world!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello, world!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Привет, Мир!"
+          }
+        }
+      }
+    },
+    "Hello, World!" : {
+
+    },
+    "Main View" : {
+
+    },
+    "next" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "next"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "предыдущий"
+          }
+        }
+      }
+    },
+    "Next" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Следующий"
+          }
+        }
+      }
+    },
+    "Nexto" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hihihohy"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "хихихохы"
+          }
+        }
+      }
+    },
+    "previous" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "previous"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "предыдущий"
+          }
+        }
+      }
+    },
+    "Previous" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Предыдущий"
+          }
+        }
+      }
+    },
+    "Privacy Policy" : {
+
+    },
+    "Purchase Subscription View" : {
+
+    },
+    "Reset Onboarding" : {
+
+    },
+    "Restore" : {
+
+    },
+    "Terms of Use" : {
+
+    },
+    "Try free & subscribe" : {
+
+    },
+    "tryFreeAndSubscribe" : {
+
+    }
+  },
+  "version" : "1.0"
+}
